@@ -6,7 +6,6 @@
 implement a new technology is a common task
 
 ## User Story
-
 # AS AN / I WANT / SO THAT
 # "AS A" marketing agency 
 # "I WANT" a codebase that follows accessibility standards 
